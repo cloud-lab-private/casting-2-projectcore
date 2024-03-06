@@ -1,5 +1,5 @@
 import unittest
-from ..main.lab import *
+from src.main.lab import *
 
 
 class TestCastingFunctions(unittest.TestCase):
